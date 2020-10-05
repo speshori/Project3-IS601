@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="902063ef-814c-4728-9fbc-10b869eaaf01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="902063ef-814c-4728-9fbc-10b869eaaf01" name="Default Changelist" comment="Feature: Added all base info for HTTP.html">
+      <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +65,44 @@
       <updated>1601741098669</updated>
       <workItem from="1601741100367" duration="1808000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature: Added all base info for HTTP.html">
+      <created>1601868537624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601868537624</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: Added all base info for HTTP.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added all base info for HTTP.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="821" y="1536" key="Github.ShareDialog" timestamp="1601742811566">
       <screen x="0" y="0" width="1920" height="2160" />
     </state>
     <state x="821" y="1536" key="Github.ShareDialog/0.0.1920.2160@0.0.1920.2160" timestamp="1601742811566" />
+    <state x="555" y="1372" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601868543029">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="555" y="1372" width="800" height="528" key="Vcs.Push.Dialog.v2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601868543029" />
     <state x="745" y="1550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601742877959">
       <screen x="0" y="0" width="1920" height="2160" />
     </state>
