@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="902063ef-814c-4728-9fbc-10b869eaaf01" name="Default Changelist" comment="" />
+    <list default="true" id="902063ef-814c-4728-9fbc-10b869eaaf01" name="Default Changelist" comment="Fix: Removed unneeded folder">
+      <change afterPath="$PROJECT_DIR$/IPAddresses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="index" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="4579ab3f-3b94-4893-a028-11e89de2bfb5" />
@@ -28,12 +55,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,17 +77,91 @@
       <option name="presentableId" value="Default" />
       <updated>1601741098669</updated>
       <workItem from="1601741100367" duration="1808000" />
+      <workItem from="1601749574661" duration="623000" />
+      <workItem from="1601864305938" duration="337000" />
     </task>
+    <task id="LOCAL-00001" summary="Task: Added photos and Merge branch 'DomainNames-ICANN'">
+      <created>1601865711148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601865711148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: added gitignore">
+      <created>1601865760813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601865760813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: Removed Unneeded folder">
+      <created>1601865900597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601865900597</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix">
+      <created>1601865976712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601865976712</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix: Removed unneeded folder">
+      <created>1601866014064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601866014064</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix: Removed unneeded folder">
+      <created>1601866082582</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601866082582</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix: Updated links in navbar" />
+    <MESSAGE value="Task: Added photos and Merge branch 'DomainNames-ICANN'" />
+    <MESSAGE value="Task: added gitignore" />
+    <MESSAGE value="Fix: Removed Unneeded folder" />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="Fix: Removed unneeded folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Removed unneeded folder" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="743" y="314" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601749691186">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="743" y="314" width="424" height="484" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1601749691186" />
     <state x="821" y="1536" key="Github.ShareDialog" timestamp="1601742811566">
       <screen x="0" y="0" width="1920" height="2160" />
     </state>
     <state x="821" y="1536" key="Github.ShareDialog/0.0.1920.2160@0.0.1920.2160" timestamp="1601742811566" />
+    <state x="555" y="1372" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601866290954">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="555" y="1372" width="800" height="528" key="Vcs.Push.Dialog.v2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1601866290954" />
     <state x="745" y="1550" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601742877959">
       <screen x="0" y="0" width="1920" height="2160" />
     </state>
