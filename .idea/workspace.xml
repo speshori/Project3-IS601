@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="902063ef-814c-4728-9fbc-10b869eaaf01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/internet.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +94,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix: Updated links in navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: Updated links in navbar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="314" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601749691186">
